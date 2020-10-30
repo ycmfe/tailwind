@@ -1,0 +1,18 @@
+{
+  "name": "@ycmfe/tailwind",
+  "version": "0.0.1",
+  "description": "ycmfe tailwind config",
+  "bin": {
+    "onion-tailwind": "bin/onion-tailwind.js"
+  },
+  "main": "index.js",
+  "author": "0x0kkr",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "commander": "^6.2.0",
+    "execa": "^4.1.0"
+  }
+}
