@@ -9,7 +9,7 @@ npm install --save-dev @ycmfe/tailwind
 ## Usage
 
 ```bash
-echo "module.exports = require('@ycmfe/tailwind/tailwind.config.js')" > tailwind.config1.js
+echo "module.exports = require('@ycmfe/tailwind/tailwind.config.js')" > tailwind.config.js
 ```
 
 ## Document
