@@ -1,6 +1,6 @@
 {
   "name": "@ycmfe/tailwind",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ycmfe tailwind config",
   "bin": {
     "onion-tailwind": "bin/onion-tailwind.js"
